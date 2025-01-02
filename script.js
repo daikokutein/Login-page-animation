@@ -4,7 +4,7 @@ const nameEl = document.querySelector('.form-container .form-row input[name="nam
 const emailEl = document.querySelector('.form-container .form-row input[name="email"]');
 const submitBtn = document.querySelector('.form-container .form-row input[type="submit"]');
 
-const sprayer = document.querySelector('.sprayer');
+
 const sprayHandContainer = document.querySelector('.spray-hand-container');
 const sprayLines = Array.from(document.querySelectorAll('.spray-line'));
 const sprayBubbles = Array.from(document.querySelectorAll('.spray-bubble'));
